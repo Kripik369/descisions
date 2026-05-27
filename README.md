@@ -1,6 +1,7 @@
 задание 1)
 
 <img width="1933" height="264" alt="image" src="https://github.com/user-attachments/assets/8cc2265c-82f5-428c-a015-d414c2884f9d" />
+
 соединение установлено
 
 <img width="584" height="438" alt="image" src="https://github.com/user-attachments/assets/003f3dda-98b2-4bd3-9bf8-3c52231cf569" />
