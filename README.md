@@ -1,3 +1,36 @@
-1) я бы выбрал gitlab так как он соответствует всем заданным требованиям и даже имеет свой GitLab Container Registry всё в одном
-2)Grafana Loki у графаны удобный интерфейс по мимо этого можно включить метрики что на проекте так же не обходимо а локи + агент не вмешщиваются в приложения и просто собирают логи
-3)собственно вот и тут нам ye;ty grafana + prometheus + exporter стандартный набор
+1) задание
+
+<img width="989" height="113" alt="image" src="https://github.com/user-attachments/assets/564dccd1-4d97-4b6d-917e-934da842711e" />
+
+
+до реплик
+
+<img width="1017" height="127" alt="image" src="https://github.com/user-attachments/assets/27582163-943e-4476-99e7-ff8bb6b40647" />
+
+после реплик
+
+<img width="1265" height="133" alt="image" src="https://github.com/user-attachments/assets/bc355d8a-3185-4a62-b794-083fda9ec67c" />
+
+создал сервис
+
+<img width="1271" height="206" alt="image" src="https://github.com/user-attachments/assets/7e6e9138-3aa9-4f36-b648-ef3b0288e322" />
+
+
+<img width="1152" height="929" alt="image" src="https://github.com/user-attachments/assets/768932e1-244d-494a-a0cb-b92ef9bc5ba1" />
+
+курл под нджинкс 
+
+<img width="1220" height="126" alt="image" src="https://github.com/user-attachments/assets/957dfb78-3e76-4bc6-88f5-b9e384bae1e2" />
+
+<img width="2000" height="183" alt="image" src="https://github.com/user-attachments/assets/83e6a506-7e71-4fbe-b009-23e412c20ff2" />
+
+курл под мультитул
+
+<img width="1888" height="94" alt="image" src="https://github.com/user-attachments/assets/4fd63e28-1748-430a-aefa-8f375fb7dae5" />
+
+это уже после создание допольнительного пода
+
+<img width="989" height="151" alt="image" src="https://github.com/user-attachments/assets/eea04312-801d-4fb9-88e0-49eda0f133ff" />
+
+вот сам под
+
