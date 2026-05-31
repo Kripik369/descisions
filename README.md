@@ -28,6 +28,9 @@
 
 <img width="1888" height="94" alt="image" src="https://github.com/user-attachments/assets/4fd63e28-1748-430a-aefa-8f375fb7dae5" />
 
+<img width="1065" height="788" alt="image" src="https://github.com/user-attachments/assets/d43ec581-e54f-47c6-b7e7-ae650d17b5fe" />
+
+
 это уже после создание допольнительного пода
 
 <img width="989" height="151" alt="image" src="https://github.com/user-attachments/assets/eea04312-801d-4fb9-88e0-49eda0f133ff" />
