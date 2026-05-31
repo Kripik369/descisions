@@ -43,3 +43,7 @@ nginx-multitool
 service-nginx
 
 2)задание 2
+
+<img width="1045" height="307" alt="image" src="https://github.com/user-attachments/assets/c9161a0b-bf8f-4eb5-96a5-0e9a7d517b0b" />
+
+написал деплоймент , нджинкс не стартует
