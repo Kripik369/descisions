@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-multitool-service
+  labels:
+    app: nginx-multitool
+spec:
+  selector:
+    app: nginx-multitool
+  ports:
+  - name: nginx
+    port: 80
+    targetPort: 80
+    protocol: TCP
+  - name: multitool
+    port: 1180
+    targetPort: 1180
+    protocol: TCP
