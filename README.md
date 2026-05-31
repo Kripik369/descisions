@@ -53,3 +53,7 @@ service-nginx
 
 финальный результат
 
+манифесты для второго задания
+service.yml
+deploy2.yml
+
