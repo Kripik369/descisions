@@ -37,3 +37,9 @@
 
 вот сам под
 
+манифесты для 1 задания 
+multitool2
+nginx-multitool
+service-nginx
+
+2)задание 2
