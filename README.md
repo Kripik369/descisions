@@ -44,6 +44,12 @@ service-nginx
 
 2)задание 2
 
-<img width="1045" height="307" alt="image" src="https://github.com/user-attachments/assets/c9161a0b-bf8f-4eb5-96a5-0e9a7d517b0b" />
+<img width="982" height="139" alt="image" src="https://github.com/user-attachments/assets/1827b86d-9193-4e20-a958-91d9bce20e7a" />
+
 
 написал деплоймент , нджинкс не стартует
+
+<img width="1083" height="736" alt="image" src="https://github.com/user-attachments/assets/a1295487-cdd1-4dfc-a8e2-a6f21822337b" />
+
+финальный результат
+
