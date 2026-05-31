@@ -25,3 +25,12 @@
 <img width="2000" height="183" alt="image" src="https://github.com/user-attachments/assets/83e6a506-7e71-4fbe-b009-23e412c20ff2" />
 
 курл под мультитул
+
+<img width="1888" height="94" alt="image" src="https://github.com/user-attachments/assets/4fd63e28-1748-430a-aefa-8f375fb7dae5" />
+
+это уже после создание допольнительного пода
+
+<img width="989" height="151" alt="image" src="https://github.com/user-attachments/assets/eea04312-801d-4fb9-88e0-49eda0f133ff" />
+
+вот сам под
+
