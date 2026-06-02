@@ -14,3 +14,8 @@
 
 нджинкс доступен
 
+
+манифесты для первого задания
+service-nginx
+nginx-multitool
+svc.yml
