@@ -6,3 +6,11 @@
 
 создан сервис типа ClucterIP , доступ есть
 
+<img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/06d620a2-ed96-4fb4-a547-d124f7d88097" />
+
+создан сервис nodePort
+
+<img width="1002" height="819" alt="image" src="https://github.com/user-attachments/assets/b7fb20e1-5885-4cae-a8da-05890e3814ef" />
+
+нджинкс доступен
+
