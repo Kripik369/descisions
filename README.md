@@ -19,3 +19,23 @@
 service-nginx
 nginx-multitool
 svc.yml
+задание 2
+
+<img width="728" height="140" alt="image" src="https://github.com/user-attachments/assets/40f94082-e9d1-460f-87c0-85956f5a24d8" />
+
+
+созданы отдельные деплойменты
+
+<img width="1064" height="212" alt="image" src="https://github.com/user-attachments/assets/89cb6922-0909-42ac-bfd0-89b73340353b" />
+
+созданы сервисы
+
+
+<img width="898" height="114" alt="image" src="https://github.com/user-attachments/assets/ae58a4f8-1798-4c6a-bf22-4f26edfb0cca" />
+
+создан ингресс
+
+<img width="1200" height="1001" alt="image" src="https://github.com/user-attachments/assets/a982ef47-6012-4a05-b2d6-cca030291abd" />
+
+оба сервиса доступны
+
