@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: multitool-service
+  labels:
+    app: multitool
+spec:
+  ports:
+  - name: web
+    port: 80
+    targetPort: 1180
+    protocol: TCP
+  selector:
+     app: multitool
+  type: ClusterIP
