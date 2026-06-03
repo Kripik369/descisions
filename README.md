@@ -39,3 +39,9 @@ svc.yml
 
 оба сервиса доступны
 
+манифесты использхованные в задании 2
+ingress.yml
+multitool
+nginx.yml
+svcmultitool.yml
+svcnginx.yml
