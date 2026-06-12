@@ -22,3 +22,6 @@ containers-data-exchange.yaml
 
 контейнеры пишут и считывают в них
 
+<img width="942" height="594" alt="image" src="https://github.com/user-attachments/assets/c524d052-723e-4184-9513-5b2fe604f0d3" />
+
+после удаления pvc pv остался так как там был retain
