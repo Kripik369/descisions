@@ -11,3 +11,14 @@ kubectl describe pods data-exchange
 
 манифест для задания 1
 containers-data-exchange.yaml
+
+задание 2)
+
+<img width="1827" height="202" alt="image" src="https://github.com/user-attachments/assets/3e4274b8-70c5-426e-a462-916ed7ba7646" />
+
+установлены pv, pvc
+
+ <img width="1616" height="446" alt="image" src="https://github.com/user-attachments/assets/60176adb-0821-449b-aa5d-7cdc29661147" />
+
+контейнеры пишут и считывают в них
+
