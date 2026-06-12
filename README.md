@@ -38,3 +38,17 @@ pv-pvc.yaml
 pvc.yaml
 
 задание 3
+
+<img width="1516" height="392" alt="image" src="https://github.com/user-attachments/assets/306103a1-995b-4ecb-a9df-2a8a2f7199aa" />
+
+созданы pvc, sc, pod
+
+<img width="1671" height="399" alt="image" src="https://github.com/user-attachments/assets/93e92aeb-0e6a-4e33-98ca-070144627284" />
+
+
+контейнеры пишут и читают
+
+манифесты для задания 3
+containers-data-exchange2.yaml
+pv-pvc.yaml
+pvc.yaml
