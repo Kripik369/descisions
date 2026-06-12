@@ -25,3 +25,7 @@ containers-data-exchange.yaml
 <img width="942" height="594" alt="image" src="https://github.com/user-attachments/assets/c524d052-723e-4184-9513-5b2fe604f0d3" />
 
 после удаления pvc pv остался так как там был retain
+
+<img width="641" height="74" alt="image" src="https://github.com/user-attachments/assets/064f183e-0cd2-4522-98ee-ee6f77182d8b" />
+
+файл остался
