@@ -31,3 +31,8 @@ containers-data-exchange.yaml
 файл остался
 
 после удаления pv тоже остался 
+
+манифесты для задания 2
+containers-data-exchange2.yaml
+pv-pvc.yaml
+pvc.yaml
