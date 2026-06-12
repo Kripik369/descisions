@@ -36,3 +36,5 @@ containers-data-exchange.yaml
 containers-data-exchange2.yaml
 pv-pvc.yaml
 pvc.yaml
+
+задание 3
