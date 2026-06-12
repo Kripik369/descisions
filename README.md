@@ -29,3 +29,5 @@ containers-data-exchange.yaml
 <img width="641" height="74" alt="image" src="https://github.com/user-attachments/assets/064f183e-0cd2-4522-98ee-ee6f77182d8b" />
 
 файл остался
+
+после удаления pv тоже остался 
