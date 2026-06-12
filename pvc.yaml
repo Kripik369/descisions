@@ -3,10 +3,10 @@ kind: PersistentVolumeClaim
 metadata:
   name: storpvc
 spec:
-  volumeName: stor
   volumeMode: Filesystem
   accessModes:
     - ReadWriteOnce
   resources:
     requests:
       storage: 1Gi
+  storageClassName: sc

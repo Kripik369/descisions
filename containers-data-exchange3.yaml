@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: data-exchange
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: volume
+  template:
+    metadata:
+      labels:
+        app: volume
+    spec:
+      containers:
+      - name: writer
+        image: busybox
+        command: ["/bin/sh", "-c"] 
+        args: ["while true; do echo $(date) >> /input/time; sleep 5; done"]
+        volumeMounts:
+        - name: vol
+          mountPath: /input
+      - name: reader
+        image: wbitt/network-multitool
+        command: ["/bin/sh", "-c"]
+        args: ["tail -f /output/time"] 
+        volumeMounts:
+        - name: vol
+          mountPath: /output
+      volumes:
+      - name: vol 
+        persistentVolumeClaim:
+          claimName: storpvc
