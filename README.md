@@ -51,4 +51,4 @@ pvc.yaml
 манифесты для задания 3
 containers-data-exchange3.yaml
 sc.yml
-pvc2.yaml
+pvc.yaml
