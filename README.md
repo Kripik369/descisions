@@ -10,3 +10,4 @@ kubectl describe pods data-exchange
 запись и считывание каждые 5 секунд
 
 манифест для задания 1
+containers-data-exchange.yaml
