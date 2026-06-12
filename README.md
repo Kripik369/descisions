@@ -49,6 +49,6 @@ pvc.yaml
 контейнеры пишут и читают
 
 манифесты для задания 3
-containers-data-exchange2.yaml
-pv-pvc.yaml
-pvc.yaml
+containers-data-exchange3.yaml
+sc.yml
+pvc2.yaml
