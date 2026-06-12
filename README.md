@@ -35,7 +35,7 @@ containers-data-exchange.yaml
 манифесты для задания 2
 containers-data-exchange2.yaml
 pv-pvc.yaml
-pvc.yaml
+pvc2.yaml
 
 задание 3
 
