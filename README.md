@@ -11,3 +11,9 @@
 <img width="948" height="364" alt="image" src="https://github.com/user-attachments/assets/56f57d30-094e-449a-9952-82947b226e65" />
 
 курл есть
+
+манифесты для задания 1
+configmap-web.yaml
+deployment.yaml
+
+задание2)
