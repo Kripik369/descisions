@@ -30,3 +30,18 @@ deployment.yaml
 ingress-tls.yaml
 secret-tls.yaml
 service.yml
+
+задание 3
+
+<img width="781" height="176" alt="image" src="https://github.com/user-attachments/assets/27f14188-deb8-42d6-b1af-3b4bc55be4e5" />
+
+включен доступ по пользователям
+
+<img width="986" height="213" alt="image" src="https://github.com/user-attachments/assets/d05a99d3-5d3c-40b0-a985-83ff1d18de2b" />
+
+ключи создан для пользователя developer
+
+<img width="1049" height="118" alt="image" src="https://github.com/user-attachments/assets/867516b0-1a38-4b43-96c2-2e188b1c009e" />
+
+доступ есть
+
