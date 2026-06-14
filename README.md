@@ -17,3 +17,12 @@ configmap-web.yaml
 deployment.yaml
 
 задание2)
+
+<img width="978" height="406" alt="image" src="https://github.com/user-attachments/assets/3eeaff8d-bd1b-4a54-8a9d-d8562f77c58b" />
+
+созданый сервис, секрет и ингрес дополнительно
+
+<img width="922" height="259" alt="image" src="https://github.com/user-attachments/assets/bfca91d0-17b6-4778-88e9-55243587eb91" />
+
+курл есть
+
