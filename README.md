@@ -45,3 +45,6 @@ service.yml
 
 доступ есть
 
+манифесты использованные в задании 3
+role-pod-reader.yaml
+rolebinding-developer.yaml
