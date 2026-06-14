@@ -12,7 +12,7 @@
 
 курл есть
 
-манифесты для задания 1
+манифесты использованые в задании 1
 configmap-web.yaml
 deployment.yaml
 
@@ -26,3 +26,7 @@ deployment.yaml
 
 курл есть
 
+манифесты использованные в задании 2
+ingress-tls.yaml
+secret-tls.yaml
+service.yml
