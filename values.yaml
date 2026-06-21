@@ -1,0 +1,4 @@
+image: nginx
+version: 1.25
+replicas: 3
+namespace: app2
